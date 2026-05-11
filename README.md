@@ -1,5 +1,7 @@
 # MindGarden
 
+English | [中文](README_CN.md)
+
 MindGarden is a SwiftUI + RealityKit iOS experience that helps families gently understand attention, short-term memory, and cognitive flexibility through poetic interactions and a locally generated Mind Report.
 
 It is designed for adult children of aging parents, as well as anyone who wants to pay closer attention to a loved one's cognitive well-being. Rather than presenting itself as a medical product, MindGarden offers a softer and more approachable starting point for observation, reflection, and conversation.
