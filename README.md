@@ -9,11 +9,8 @@ It is designed for adult children of aging parents, as well as anyone who wants 
 
 ## Hero
 
-Add the homepage screenshot here for the repository cover:
+<img width="2752" height="2064" alt="664a11e7f36ca31c23c144efdc48d50d" src="https://github.com/user-attachments/assets/990a7bed-aa08-4e00-ad61-062dc38936e8" />
 
-`docs/hero-home.png`
-
-Recommended image: the main garden screen with the central flower, starry sky background, and segmented control visible.
 
 ## Why I Built This
 
