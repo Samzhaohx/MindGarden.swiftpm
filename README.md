@@ -74,18 +74,50 @@ After the three interactions, the app generates a local **Mind Report** that tra
 
 ```text
 .
-├── ContentView.swift
 ├── MyApp.swift
+├── ContentView.swift
 ├── Package.swift
 ├── Assets.xcassets
 └── Utils
-    ├── BGMPlayer.swift
     ├── Colors.swift
+    ├── GlassCompat.swift
+    ├── BGMPlayer.swift
     └── Views
-        ├── Articles
+        ├── Components
+        │   └── IntroCardView.swift
         ├── Garden
-        └── Interactions
+        │   ├── GardenView.swift
+        │   ├── GardenBackground.swift
+        │   ├── GardenOverlay.swift
+        │   ├── MistUI.swift
+        │   ├── GlowLine.swift
+        │   ├── GlowLine2.swift
+        │   ├── GlowLine3.swift
+        │   ├── GlowFrameShape.swift
+        │   ├── GlowFrameShape2.swift
+        │   └── GlowFrameShape3.swift
+        ├── Interactions
+        │   ├── FirstInteractionView.swift
+        │   ├── SecondInteractionView.swift
+        │   ├── ThirdInteractionView.swift
+        │   ├── MindGardenMetricsStore.swift
+        │   └── MindReportView.swift
+        └── Articles
+            ├── ArticlesRootView.swift
+            ├── ArticlesView.swift
+            ├── ArticleDetailView.swift
+            ├── Article.swift
+            ├── ArticlesHelpButton.swift
+            ├── ArticlesHelpSheet.swift
+            ├── ArticlesBGMButton.swift
+            └── Articles
+                ├── Article1.swift
+                ├── Article2.swift
+                ├── Article3.swift
+                ├── Article4.swift
+                └── Article5.swift
 ```
+
 
 ## Platform
 
